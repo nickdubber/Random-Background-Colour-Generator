@@ -1,0 +1,29 @@
+body{
+    background-color: aqua; /* This is what will change onClick */
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    border: 0px;
+    padding: 0px;
+}
+
+.titlebar{
+    background-color: darkslategrey;
+    margin: 0px;
+    border: 0px;
+    height: 50px;
+}
+
+h1{
+    margin: 0;
+    color: rgb(192, 192, 192);
+}
